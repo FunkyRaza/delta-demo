@@ -1,2 +1,2 @@
 # delta-demo
-This is a Practice Mode
+This is a Demo For GIT & GITHUB Class.
